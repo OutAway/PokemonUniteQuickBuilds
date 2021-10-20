@@ -1,0 +1,1 @@
+poke_list = ['pikachu', 'greninja', 'venusaur', 'alolan-ninetales', 'cramorant', 'cinderace', 'gardevoir' ,'sylveon' ,'zeraora' ,'talonflame', 'absol' ,'gengar', 'charizard', 'lucario' ,'machamp', 'garchomp' ,'snorlax', 'crustle', 'slowbrow', 'blastoise' ,'mamoswine', 'eldegoss', 'mr. mime', 'wigglytuff' ,'blissey']
